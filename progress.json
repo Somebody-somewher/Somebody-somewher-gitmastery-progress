@@ -381,14 +381,5 @@
       "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1768474842.424417,
-    "completed_at": 1768474845.31505,
-    "comments": [
-      "Expected commit message of 'Add the search feature', got 'Add the delete feature' instead."
-    ],
-    "status": "Incomplete"
   }
 ]
